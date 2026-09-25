@@ -73,12 +73,13 @@ Opened `My Locked PDF2.pdf` and entered `password1` at the password prompt.
 The PDF opened successfully, displaying a "Congratulations — you have captured your 1st flag" confirmation page.
 
 ---
+![alt text](image-3.png)
 
 ## 5. Result
 
 | Item | Value |
 |---|---|
-| Target file | My Locked PDF1.pdf |
+| Target file | My Locked PDF2.pdf |
 | Hash format | PDF (pdf2john/hashcat-compatible, `$pdf$...`) |
 | Cracking method | Dictionary attack (built-in 100-word list) |
 | Recovered password | `password1` |

@@ -73,6 +73,7 @@ This message indicated the hash had already been cracked in a previous run and w
 The recovered password (`password1`) was used to open `My Locked PDF1.pdf` in a PDF reader, confirming successful decryption. The document displayed a "Congratulations — you have captured your 1st flag" message, confirming the exercise was completed correctly.
 
 ---
+![alt text](image-1.png)
 
 ## 5. Alternative Commands Used / Available
 
