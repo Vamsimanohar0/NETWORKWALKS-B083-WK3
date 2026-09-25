@@ -73,7 +73,7 @@ Opened `My Locked PDF2.pdf` and entered `password1` at the password prompt.
 The PDF opened successfully, displaying a "Congratulations — you have captured your 1st flag" confirmation page.
 
 ---
-![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## 5. Result
 
