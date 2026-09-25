@@ -60,8 +60,19 @@ john hash1.txt
 Output:
 ```
 Using default input encoding: UTF-8
-Loaded 1 password hash (PDF [MD5 SHA2 RC4/AES 32/64])
-No password hashes left to crack (see FAQ)
+Loaded 1 password hash (PDF CMD5 SHA2 RC4/AES 32/64])
+Cost 1 (revision) is 4 for all loaded hashes
+Will run 2 OpenMP threads
+Proceeding with single, rules: Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Almost done: Processing the remaining buffered candidate passwords, if any.
+Proceeding with wordlist:/usr/share/john/password. 1st
+(My-Locked-PDF1.pdf)
+passwordl
+lg DONE 2/3 (2026-09-25 18: 14) ø.99øøg/s 40845p/s 40845C/s 40845C/s 123456 green
+Use the "
+show —format=PDF" options to display all of the cracked passwords reliably
+Session completed.
 ```
 
 This message indicated the hash had already been cracked in a previous run and was stored in John's potfile (`~/.john/john.pot`).
