@@ -1,5 +1,7 @@
 # NETWORKWALKS-B083-WK3
+
 https://github.com/user-attachments/assets/a346ccc7-320f-4aee-a82c-9684536fac83
+
 Week 3 project submissions for the NetworkWalks Cybersecurity & Ethical Hacking course — **Password Cracking**, covering two lab modules that recover the password of a protected PDF file using different tools and approaches.
 
 ## 📁 Repository Structure
